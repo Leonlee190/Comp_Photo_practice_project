@@ -1,2 +1,2 @@
-# Comp_Photo_practice_project
+# Comp Photo practice project
 Computational Photography Project
