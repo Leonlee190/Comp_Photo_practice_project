@@ -1,2 +1,3 @@
-# Comp Photo practice project
-Computational Photography Project
+# picBrush
+
+Processing an image to give an dot painting style
