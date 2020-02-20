@@ -1,3 +1,3 @@
 # picBrush
 
-Processing an image to give an dot painting style
+Processing an image to give a Pointillism painting style
